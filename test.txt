@@ -1,4 +1,3 @@
-1. Susu
-2. Kopi
-3. Madu
-4. Teh
+1. Kopi
+2. Madu
+3. Teh
